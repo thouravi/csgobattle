@@ -13,6 +13,18 @@ players = {
 8 : {"name":"apEX","rating": "105"},
 9 : {"name":"ALEX","rating": "101"},
 10 : {"name":"ZywOo","rating": "137"},
+#Astralis
+11 : {"name":"Xyp9x","rating": "104"},
+12 : {"name":"dupreeh","rating": "110"},
+13 : {"name":"gla1ve","rating": "101"},
+14 : {"name":"device","rating": "117"},
+15 : {"name":"Magisk","rating": "111"},
+#ENCE
+16 : {"name":"allu","rating": "110"},
+17 : {"name":"Aerial","rating": "116"},
+18 : {"name":"xseveN","rating": "100"},
+19 : {"name":"Aleksib","rating": "101"},
+20 : {"name":"sergej","rating": "119"},
 }
 
 n = []
