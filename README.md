@@ -1,5 +1,5 @@
 # csgobattle
-A Random Game in which 1 player wins the battle.
+A Random CS:GO Battle in which one player wins the battle.
 
 # Some Information about this:
 - I converted that Rating to HP
