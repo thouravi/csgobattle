@@ -27,10 +27,7 @@ players = {
 20 : {"name":"sergej","rating": 119},
 }
 
-n = []
-
-for j in players:
-    n.append(j)
+n = [j for j in players]
 
 for i in players:
     if len(n) > 1:
